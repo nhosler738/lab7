@@ -5,6 +5,7 @@
 * *Date Created*: 12 09 2024
 * *Last Modification Date*: 17 09 2024
 * *Lab URL*: <https://web.cs.dal.ca/~hosler/csci3172/lab1/>
+* *Gitlab URL*: <https://git.cs.dal.ca/hosler/csci3172>
 
 
 ## Authors
