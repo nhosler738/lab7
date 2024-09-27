@@ -18,7 +18,11 @@ delete anObject.left;
 console.log(anObject);
 // returns {right: 2};
 
-// Why delete an object if we can set its value to null or undefined? It comes down to what we want to do. If we set a property to undefined or null, then we still have the property present in our object. If, on the other hand, we delete a property, then the property and its value are no longer present in our object. So it comes down to asking ourselves whether we need the property or not.
+// Why delete an object if we can set its value to null or undefined?
+// It comes down to what we want to do. If we set a property to undefined or null,
+// then we still have the property present in our object. If, on the other hand,
+// we delete a property, then the property and its value are no longer present in our object.
+// So it comes down to asking ourselves whether we need the property or not.
 
 
 // The IN operator
