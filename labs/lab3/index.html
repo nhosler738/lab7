@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lab3</title>
+</head>
+<body>
+
+<div id="day-select-container" >
+
+  <label for="day-select">Choose a day:</label>
+
+  <select name="days" id="day-select" onchange="changeColour()">
+    <option value="">Please choose an option</option>
+    <option value="Monday">Monday</option>
+    <option value="Tuesday">Tuesday</option>
+    <option value="Wednesday">Wednesday</option>
+    <option value="Thursday">Thursday</option>
+    <option value="Friday">Friday</option>
+    <option value="Saturday">Saturday</option>
+    <option value="Sunday">Sunday</option>
+  </select>
+</div>
+
+<div id="number-form-container">
+  <form id="number-form" onsubmit="checkNumber()">
+    <label for="number">Enter a number:</label>
+    <input id="number" name="number" type="number">
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+<p id="number-form-result"></p>
+
+<script src="script.js"></script>
+</body>
+
+
+</html>
