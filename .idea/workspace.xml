@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2b1fd3ab-f348-43ec-8a2e-5bf20350679d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/activities/Lecture7Activity/Lecture7_Hosler_Nathan_README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/activities/Lecture7Activity/Lecture7_Hosler_Nathan_README.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -35,6 +35,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.htm.html.executor&quot;: &quot;Run&quot;,
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.L7V3-Example.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.script.js.executor&quot;: &quot;Run&quot;,
@@ -71,6 +72,8 @@
       <workItem from="1727230701459" duration="3718000" />
       <workItem from="1727401267322" duration="3937000" />
       <workItem from="1727469178881" duration="26000" />
+      <workItem from="1727722017410" duration="14383000" />
+      <workItem from="1727830651268" duration="353000" />
     </task>
     <servers />
   </component>
