@@ -2,7 +2,7 @@
 
 
 
-document.addEventListener("DOMContentLoaded", function (event) {
+document.addEventListener("submit", function (event) {
     const firstname = document.getElementById("fname").value;
     const lastname = document.getElementById("lname").value;
     const email = document.getElementById("email").value;
@@ -30,6 +30,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
     // display form contents
     displayFormContents(firstname, lastname, email, gender, country);
 
+    event.preventDefault();
 
 });
 
@@ -37,13 +38,14 @@ function displayFormContents(firstname, lastname, email, gender, country) {
     let resultBox = document.getElementById("result");
 
     resultBox.innerHTML = `
-                <h3>Form Contents:</h3>
-                <p><strong>First Name:</strong> ${firstname}</p>
-                <p><strong>Last Name:</strong> ${lastname}</p>
-                <p><strong>Email:</strong> ${email}</p>
-                <p><strong>Gender:</strong> ${gender}</p>
-                <p><strong>Country:</strong> ${country}</p>
-            `;
+        <h3>Form Contents:</h3>
+        <p><strong>First Name:</strong> ${firstname}</p>
+        <p><strong>Last Name:</strong> ${lastname}</p>
+        <p><strong>Email:</strong> ${email}</p>
+        <p><strong>Gender:</strong> ${gender}</p>
+        <p><strong>Country:</strong> ${country}</p>
+    `;
+
 
 
 }
