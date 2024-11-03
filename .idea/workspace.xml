@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b1fd3ab-f348-43ec-8a2e-5bf20350679d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/csci3172.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csci3172.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,7 @@
     &quot;Node.js.script.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/nathan/Desktop/school docs/WebComputing/csci3172&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -54,7 +56,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
@@ -77,6 +80,8 @@
       <workItem from="1728316547259" duration="8659000" />
       <workItem from="1728350600238" duration="1380000" />
       <workItem from="1728482331029" duration="882000" />
+      <workItem from="1730052814640" duration="149000" />
+      <workItem from="1730165291094" duration="23000" />
     </task>
     <servers />
   </component>
