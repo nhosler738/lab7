@@ -1,4 +1,0 @@
-City: Calgary Temperature: Mist
-City: Halifax Temperature: Mainly Clear
-City: Toronto Temperature: Mainly Clear
-City: Vancouver Temperature: Mostly Cloudy
